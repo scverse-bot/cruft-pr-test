@@ -1,0 +1,23 @@
+{
+  "template": "https://github.com/scverse/cookiecutter-scverse",
+  "commit": "985b5bc866db1a466f7a5d99f5e9ea2d2cce528a",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "cruft-pr-test",
+      "package_name": "cruft_pr_test",
+      "project_description": "Test cookiecutter-scverse’s cruft PR workflow",
+      "author_full_name": "Philipp A.",
+      "author_email": "flying-sheep@web.de",
+      "github_user": "flying-sheep",
+      "project_repo": "https://github.com/flying-sheep/cruft-pr-test",
+      "license": "GNU General Public License Version 3",
+      "_copy_without_render": [
+        ".github/workflows/**.yaml",
+        "docs/_templates/autosummary/**.rst"
+      ],
+      "_template": "https://github.com/scverse/cookiecutter-scverse"
+    }
+  },
+  "directory": null
+}
