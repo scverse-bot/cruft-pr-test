@@ -1,7 +1,7 @@
 {
   "template": "https://github.com/scverse/cookiecutter-scverse",
-  "commit": "985b5bc866db1a466f7a5d99f5e9ea2d2cce528a",
-  "checkout": null,
+  "commit": "1683f89a32543014a325074c41da0e60e5f404a0",
+  "checkout": "main",
   "context": {
     "cookiecutter": {
       "project_name": "cruft-pr-test",
